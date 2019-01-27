@@ -1,0 +1,14 @@
+{
+    "name": "anunt",
+    "channel_id": "5387922507678351626",
+    "token": "knlfYzE46wYUteyUOzzrkwVPaoDTQ-KV_iPJrZcaPapY7mI4PahZ4K96HqmYt0jdoXIW",
+    "avatar": null,
+    "guild_id": "484113038228848670",
+    "id": "538881323666898959,
+    "user": {
+        "username": "test",
+        "discriminator": "7479",
+        "id": "190320984123768832",
+        "avatar": "b004ec1740a63ca06ae2e14c5cee11f3"
+    }
+}
